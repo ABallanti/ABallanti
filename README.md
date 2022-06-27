@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrea here - a bit of a engineer from the UK fascinating by the potential of machine learning 
+- 👋 Hi, I’m Andrea here - a bit of a engineer from the UK fascinated by the potential of machine learning 
 - 👀 I’m interested in deep learning
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on deep learning project
