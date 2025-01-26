@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Andrea here - a power system engineer with expertise in energy modelling and forecasting with 10 years of experience in academia and industry combined. I have a wealth of expertise in the UK energy system and on my weekend I develop tools and project while learning web development.
-- 📫 How to reach me andrea.ballanti87@gmail.com
+- 👋 Hi, I’m Andrea here - a power system engineer with expertise in energy modeling and forecasting with 10 years of experience in academia and industry. I have a wealth of knowledge in the UK energy system and on my weekends I develop tools and projects while learning web development.
 
 <!---
 ABallanti/ABallanti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
