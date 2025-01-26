@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Andrea here - a bit of a engineer from the UK fascinated by the potential of machine learning 
-- 👀 I’m interested in deep learning
-- 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on deep learning project
+- 👋 Hi, I’m Andrea here - a power system engineer with expertise in energy modelling and forecasting with 10 years of experience in academia and industry combined. I have a wealth of expertise in the UK energy system and on my weekend I develop tools and project while learning web development.
 - 📫 How to reach me andrea.ballanti87@gmail.com
 
 <!---
